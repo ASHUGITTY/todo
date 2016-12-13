@@ -1,8 +1,5 @@
-MyTodo v1.0
+Todo
 =========
+A simple ToDo application developed using CodeIgniter . Download or clone the project and run on your localhost.
 
-This is a demo application that uses the CodeIgniter framework. Use it as you see fit.
-
-Note: This versions code may slightly differ from the version I created in the Youtube tutorial. 
-
-I have included a database dump file as well. Just import it via phpmyadmin
+A dummy database is also provided.
